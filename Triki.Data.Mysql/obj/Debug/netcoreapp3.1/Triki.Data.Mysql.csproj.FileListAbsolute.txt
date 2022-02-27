@@ -1,0 +1,13 @@
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\bin\Debug\netcoreapp3.1\Triki.Data.Mysql.deps.json
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\bin\Debug\netcoreapp3.1\Triki.Data.Mysql.dll
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\bin\Debug\netcoreapp3.1\Triki.Data.Mysql.pdb
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\bin\Debug\netcoreapp3.1\Triki.CI.dll
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\bin\Debug\netcoreapp3.1\Triki.CI.pdb
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\obj\Debug\netcoreapp3.1\Triki.Data.Mysql.csproj.AssemblyReference.cache
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\obj\Debug\netcoreapp3.1\Triki.Data.Mysql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\obj\Debug\netcoreapp3.1\Triki.Data.Mysql.AssemblyInfoInputs.cache
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\obj\Debug\netcoreapp3.1\Triki.Data.Mysql.AssemblyInfo.cs
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\obj\Debug\netcoreapp3.1\Triki.Data.Mysql.csproj.CoreCompileInputs.cache
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\obj\Debug\netcoreapp3.1\Triki.Data.Mysql.csproj.CopyComplete
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\obj\Debug\netcoreapp3.1\Triki.Data.Mysql.dll
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.Data.Mysql\obj\Debug\netcoreapp3.1\Triki.Data.Mysql.pdb

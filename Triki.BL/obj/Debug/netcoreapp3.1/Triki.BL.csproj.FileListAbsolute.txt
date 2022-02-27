@@ -1,0 +1,15 @@
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\bin\Debug\netcoreapp3.1\Triki.BL.deps.json
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\bin\Debug\netcoreapp3.1\Triki.BL.dll
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\bin\Debug\netcoreapp3.1\Triki.BL.pdb
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\bin\Debug\netcoreapp3.1\Triki.CI.dll
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\bin\Debug\netcoreapp3.1\Triki.Data.Sql.dll
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\bin\Debug\netcoreapp3.1\Triki.CI.pdb
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\bin\Debug\netcoreapp3.1\Triki.Data.Sql.pdb
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\obj\Debug\netcoreapp3.1\Triki.BL.csproj.AssemblyReference.cache
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\obj\Debug\netcoreapp3.1\Triki.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\obj\Debug\netcoreapp3.1\Triki.BL.AssemblyInfoInputs.cache
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\obj\Debug\netcoreapp3.1\Triki.BL.AssemblyInfo.cs
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\obj\Debug\netcoreapp3.1\Triki.BL.csproj.CoreCompileInputs.cache
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\obj\Debug\netcoreapp3.1\Triki.BL.csproj.CopyComplete
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\obj\Debug\netcoreapp3.1\Triki.BL.dll
+C:\Users\SADIA\source\repos\ApiTirki\ApiTriki\ApiTriki\Triki.BL\obj\Debug\netcoreapp3.1\Triki.BL.pdb

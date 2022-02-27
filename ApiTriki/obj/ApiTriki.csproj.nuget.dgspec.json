@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\ApiTriki\\ApiTriki.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\ApiTriki\\ApiTriki.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\ApiTriki\\ApiTriki.csproj",
+        "projectName": "ApiTriki",
+        "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\ApiTriki\\ApiTriki.csproj",
+        "packagesPath": "C:\\Users\\SADIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\ApiTriki\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SADIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.BL\\Triki.BL.csproj": {
+                "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.BL\\Triki.BL.csproj"
+              },
+              "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\Triki.CI.csproj": {
+                "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\Triki.CI.csproj"
+              },
+              "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.Data.Mysql\\Triki.Data.Sql.csproj": {
+                "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.Data.Mysql\\Triki.Data.Sql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            },
+            "XAct.Core.PCL": {
+              "target": "Package",
+              "version": "[0.0.5014, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.BL\\Triki.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.BL\\Triki.BL.csproj",
+        "projectName": "Triki.BL",
+        "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.BL\\Triki.BL.csproj",
+        "packagesPath": "C:\\Users\\SADIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SADIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\Triki.CI.csproj": {
+                "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\Triki.CI.csproj"
+              },
+              "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.Data.Mysql\\Triki.Data.Sql.csproj": {
+                "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.Data.Mysql\\Triki.Data.Sql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\Triki.CI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\Triki.CI.csproj",
+        "projectName": "Triki.CI",
+        "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\Triki.CI.csproj",
+        "packagesPath": "C:\\Users\\SADIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SADIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.Data.Mysql\\Triki.Data.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.Data.Mysql\\Triki.Data.Sql.csproj",
+        "projectName": "Triki.Data.Sql",
+        "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.Data.Mysql\\Triki.Data.Sql.csproj",
+        "packagesPath": "C:\\Users\\SADIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.Data.Mysql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SADIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\Triki.CI.csproj": {
+                "projectPath": "C:\\Users\\SADIA\\source\\repos\\ApiTirki\\ApiTriki\\ApiTriki\\Triki.CI\\Triki.CI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

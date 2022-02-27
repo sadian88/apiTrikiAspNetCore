@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68276fe6-d579-43a6-9ecf-5e964245c648": {
+      "ProjectGuid": "68276fe6-d579-43a6-9ecf-5e964245c648",
+      "DisplayName": "ApiTriki",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "25f7fa1f-8b67-4cc2-b64a-c4cbe0c00bd2": {
+      "ProjectGuid": "25f7fa1f-8b67-4cc2-b64a-c4cbe0c00bd2",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "40000a16-c0b8-48dc-a6c2-245af3725355": {
+      "ProjectGuid": "40000a16-c0b8-48dc-a6c2-245af3725355",
+      "DisplayName": "Business.Model",
+      "ColorIndex": 2
+    },
+    "1120899a-0392-4293-8f6c-2efac885378c": {
+      "ProjectGuid": "1120899a-0392-4293-8f6c-2efac885378c",
+      "DisplayName": "Triki.BL",
+      "ColorIndex": 3
+    },
+    "9084b036-6459-47c0-a910-971c8bd03f0c": {
+      "ProjectGuid": "9084b036-6459-47c0-a910-971c8bd03f0c",
+      "DisplayName": "Triki.Data.Sql",
+      "ColorIndex": 4
+    },
+    "c37bdf69-6210-4ff2-94e6-58296106dbec": {
+      "ProjectGuid": "c37bdf69-6210-4ff2-94e6-58296106dbec",
+      "DisplayName": "Triki.CI",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

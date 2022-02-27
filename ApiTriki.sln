@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTriki", "ApiTriki\ApiTriki.csproj", "{68276FE6-D579-43A6-9ECF-5E964245C648}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BL", "BL", "{3B056AB8-0B30-4F2C-88D9-9354FF11CC7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{4505754C-D8C8-4C51-9A7C-07396728DF96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triki.BL", "Triki.BL\Triki.BL.csproj", "{1120899A-0392-4293-8F6C-2EFAC885378C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triki.Data.Sql", "Triki.Data.Mysql\Triki.Data.Sql.csproj", "{9084B036-6459-47C0-A910-971C8BD03F0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cl", "Cl", "{F877009C-46B8-439D-A6CC-847F8B899FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triki.CI", "Triki.CI\Triki.CI.csproj", "{C37BDF69-6210-4FF2-94E6-58296106DBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68276FE6-D579-43A6-9ECF-5E964245C648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68276FE6-D579-43A6-9ECF-5E964245C648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68276FE6-D579-43A6-9ECF-5E964245C648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68276FE6-D579-43A6-9ECF-5E964245C648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1120899A-0392-4293-8F6C-2EFAC885378C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1120899A-0392-4293-8F6C-2EFAC885378C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1120899A-0392-4293-8F6C-2EFAC885378C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1120899A-0392-4293-8F6C-2EFAC885378C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9084B036-6459-47C0-A910-971C8BD03F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9084B036-6459-47C0-A910-971C8BD03F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9084B036-6459-47C0-A910-971C8BD03F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9084B036-6459-47C0-A910-971C8BD03F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37BDF69-6210-4FF2-94E6-58296106DBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37BDF69-6210-4FF2-94E6-58296106DBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37BDF69-6210-4FF2-94E6-58296106DBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37BDF69-6210-4FF2-94E6-58296106DBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1120899A-0392-4293-8F6C-2EFAC885378C} = {3B056AB8-0B30-4F2C-88D9-9354FF11CC7C}
+		{9084B036-6459-47C0-A910-971C8BD03F0C} = {4505754C-D8C8-4C51-9A7C-07396728DF96}
+		{C37BDF69-6210-4FF2-94E6-58296106DBEC} = {F877009C-46B8-439D-A6CC-847F8B899FA8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB6EE3A-83D0-46C3-9C71-C0F86F2196B3}
+	EndGlobalSection
+EndGlobal
